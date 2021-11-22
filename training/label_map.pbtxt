@@ -1,0 +1,12 @@
+item {
+	id: 1
+	name: 'raspberry'
+}
+item {
+	id: 2
+	name: 'multimetre'
+}
+item {
+	id: 3
+	name: 'salca'
+}
